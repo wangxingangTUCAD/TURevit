@@ -4,9 +4,9 @@
 <last_version remark="上一版本号">20220419</last_version>
 <exe1_version remark="exe1版本号">20220420</exe1_version>
 <exe2_version remark="exe2版本号">20200726</exe2_version>
-<complete_url remark="完整安装包">https://wangxingangtucad.github.io/TUCAD/Complete_Packge.zip</complete_url>
-<Incremental_url remark="增量安装包">https://wangxingangtucad.github.io/TUCAD/Incremental_Packge.zip</Incremental_url>
-<exe1_url remark="exe1安装包">https://wangxingangtucad.github.io/TUCAD/exe1_Packge.zip</exe1_url>
-<exe2_url remark="exe2安装包">https://wangxingangtucad.github.io/TUCAD/exe2_Packge.zip</exe2_url>
+<complete_url remark="完整安装包">https://wangxingangtucad.github.io/TURevit/Complete_Packge.zip</complete_url>
+<Incremental_url remark="增量安装包">https://wangxingangtucad.github.io/TURevit/Incremental_Packge.zip</Incremental_url>
+<exe1_url remark="exe1安装包">https://wangxingangtucad.github.io/TURevit/exe1_Packge.zip</exe1_url>
+<exe2_url remark="exe2安装包">https://wangxingangtucad.github.io/TURevit/exe2_Packge.zip</exe2_url>
 <requiredUpdate remark="是否必须更新">true</requiredUpdate>
 </root>
