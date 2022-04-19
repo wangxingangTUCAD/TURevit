@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <root>
-<active_version remark="当前版本号">20220420</active_version>
-<last_version remark="上一版本号">20220419</last_version>
-<exe1_version remark="exe1版本号">20220420</exe1_version>
-<exe2_version remark="exe2版本号">20200726</exe2_version>
+<active_version remark="当前版本号">20220419</active_version>
+<last_version remark="上一版本号">20220222</last_version>
+<exe1_version remark="exe1版本号">20220419</exe1_version>
+<exe2_version remark="exe2版本号">20200419</exe2_version>
 <complete_url remark="完整安装包">https://wangxingangtucad.github.io/TURevit/Complete_Packge.zip</complete_url>
 <Incremental_url remark="增量安装包">https://wangxingangtucad.github.io/TURevit/Incremental_Packge.zip</Incremental_url>
 <exe1_url remark="exe1安装包">https://wangxingangtucad.github.io/TURevit/exe1_Packge.zip</exe1_url>
