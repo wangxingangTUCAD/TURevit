@@ -6,7 +6,7 @@
 <exe2_version remark="exe2版本号">20220419</exe2_version>
 <complete_url remark="完整安装包">https://wangxingangtucad.github.io/TURevit/Complete_Packge.zip</complete_url>
 <Incremental_url remark="增量安装包">https://wangxingangtucad.github.io/TURevit/Incremental_Packge.zip</Incremental_url>
-<exe1_url remark="exe1安装包">https://wangxingangtucad.github.io/TURevit/exe1_Packge.zip</exe1_url>
+<exe1_url remark="exe1安装包">http://121.4.126.155/PHP无忧源码最新版本 - 副本.zip</exe1_url>
 <exe2_url remark="exe2安装包">https://wangxingangtucad.github.io/TURevit/exe2_Packge.zip</exe2_url>
 <requiredUpdate remark="是否必须更新">true</requiredUpdate>
 </root>
